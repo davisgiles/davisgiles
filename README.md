@@ -2,7 +2,7 @@
 <p align="center">
   <b>I'm Davis, I am an engineer and data scientist whos interested in energy, sustainability, sports, optimization, and machine learning. Check out my projects and connect with me!</b><br><br>
   
-  <a href="https://www.linkedin.com/in/davisgiles/">
+  <a href="https://www.linkedin.com/in/davisgiles/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a><br>
   <h3 align="center">Programming Languages</h3>
