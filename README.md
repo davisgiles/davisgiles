@@ -1,4 +1,4 @@
-<h1 align=center> Hi there 👋 Welcome to my GitHub! </h1>
+<h1 align=center> Welcome to my GitHub! 👋</h1>
 <p align="center">
   <b>I'm Davis, I am an engineer and data scientist whos interested in energy, sustainability, sports, optimization, and machine learning. Check out my projects and connect with me!</b><br><br>
   
