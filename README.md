@@ -1,22 +1,43 @@
-<h1 align="center">Welcome to my GitHub! 👋</h1>
-<p align="center">
-  <b>I'm Davis, a data scientist who's interested in energy, sustainability, sports, optimization, and machine learning.</b><br><br>
+<h1 align="center">Welcome to my GitHub</h1>
+    <p><strong>UC Berkeley MS Graduate</strong> | Passionate About Energy, Sustainability & Machine Learning</p>
+    <p>
+        I’m an environmental engineering master's graduate from <strong>UC Berkeley</strong>, now working as a 
+        <strong>data scientist</strong>. My interests lie at the intersection of 
+        <strong>energy, sustainability, sports, optimization, and machine learning</strong>. 
+        I'm always looking for ways to leverage data-driven insights to tackle real-world challenges.
+    </p>
+    <h3>What I'm Into:</h3>
+    <ul>
+        <li>Sustainable Energy Solutions</li>
+        <li>Data Science & Machine Learning</li>
+        <li>Optimization & Decision Science</li>
+        <li>Sports Analytics</li>
+    </ul>
+</body>
+
+<h2 align="left">Programming Languages</h2>
   
-  <div align="center">
+  <div align="left">
     <a>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50">
     </a>
     <a>
-      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50" height="50">
     </a>
     <a>
-       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PosgreSQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50">
     </a>
     <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50">
+    </a>
+<h2 align="left">Data Storage</h2>
+    <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
+    </a>
+<h2 align="left">Tech Stack</h2>
+    <a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50">
+    </a>
   </div>
   
-  <div align="center">
-    <h3>LeetCode Stats</h3>
-    <img src="https://leetcard.jacoblin.cool/gilesd?theme=dark&font=Arimo&ext=heatmap" alt="LeetCode Stats">
-  </div>
-</p>
+
