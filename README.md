@@ -35,6 +35,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50">
   </a>
   <a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50">
+  </a>
+  <a>
     <img src="https://duckdb.org/images/logo-dl/DuckDB_Logo.svg" width="50" height="50">
   </a>
   <a>
